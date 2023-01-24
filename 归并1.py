@@ -29,3 +29,4 @@ if __name__=="__main__":
     print(gui_bing(lst))
 
 print('123')
+# 测试分支 归并

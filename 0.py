@@ -7,4 +7,5 @@ for i in range(1,len(lst)-1):
         for k in lst[i+1:len(lst):1]:
             lst2.append(k)
 print(lst1)
+# 测试分支
 print(lst2)
