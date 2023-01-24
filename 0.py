@@ -8,3 +8,4 @@ for i in range(1,len(lst)-1):
             lst2.append(k)
 print(lst1)
 print(lst2)
+print('123')
